@@ -1,3 +1,5 @@
+/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+/System/Library/PrivateFrameworks/TrustEvaluationAgent.framework/Versions/A/TrustEvaluationAgent
 /bin/bash
 /bin/ls
 /bin/rm
@@ -14,10 +16,13 @@
 /usr/lib/libbz2.1.0.dylib
 /usr/lib/libc++.1.dylib
 /usr/lib/libc++abi.dylib
+/usr/lib/libcrypto.0.9.8.dylib
+/usr/lib/libiconv.2.dylib
 /usr/lib/libicucore.A.dylib
 /usr/lib/liblzma.5.dylib
 /usr/lib/libncurses.5.4.dylib
 /usr/lib/libobjc.A.dylib
+/usr/lib/libssl.0.9.8.dylib
 /usr/lib/libutil.dylib
 /usr/lib/libxml2.2.dylib
 /usr/lib/libz.1.dylib
@@ -57,3 +62,4 @@
 /usr/lib/system/libunc.dylib
 /usr/lib/system/libunwind.dylib
 /usr/lib/system/libxpc.dylib
+/usr/local/bin/wget
