@@ -6,6 +6,7 @@
 /dev/null
 /dev/urandom
 /dev/zero
+/sbin/md5
 /usr/bin/bzip2
 /usr/bin/tar
 /usr/lib/dyld
